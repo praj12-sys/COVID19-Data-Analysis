@@ -1,1 +1,2 @@
 # COVID19-Data-Analysis
+Preprocessing and merging datasets to calculate needed measures and prepare them for an analysis. Working with COVID19 dataset, published by John Hopkins University, and another dataset consisting of various life factors, scored by the people living in each country around the globe. Merging the two datasets and analyzing if there is any relationship between the two and revealing some insightful results from it.
